@@ -19,7 +19,7 @@ git clone git@github.com:2n4p/9-2-5_hands-on.git
 
 
 2.ディレクトリの移動
-cd 9-1-8_hands-on
+cd 9-2-5_hands-on
 
 
 3.Docker Desktopの起動
