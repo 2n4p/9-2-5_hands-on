@@ -1,4 +1,4 @@
-# setup-app-practice
+# blade-app-practice
 
 ##概要
 Coachtech 教材 Tutorial 9-2「Bladeテンプレートハンズオン」で作成した成果物です。
